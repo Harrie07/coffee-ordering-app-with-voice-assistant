@@ -34,7 +34,7 @@ An innovative coffee ordering application that leverages Alan AI's voice assista
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/coffee-ordering-app.git
+git clone https://github.com/Harrie07/coffee-ordering-app-with-voice-assistant.git
 ```
 
 2. Open `index.html` in your web browser
@@ -61,7 +61,6 @@ coffee-ordering-app/
 │       ├── alan.js         # Alan AI integration
 │
 ├── assets/                 # Static assets
-│   ├── images/             # Product and UI images
 │   └── icons/              # UI icons
 ```
 
@@ -79,13 +78,10 @@ coffee-ordering-app/
 4. Push to the branch
 5. Open a Pull Request
 
-## 📄 License
-[Specify your license, e.g., MIT]
 
 ## 📞 Contact
 Harshal Sakpal - [harshalsakpal21@gmail.com](mailto:harshalsakpal21@gmail.com)
 
 Project Link: [https://github.com/Harrie07/coffee-ordering-app-with-voice-assistant](https://github.com/Harrie07/coffee-ordering-app-with-voice-assistant)
 
-## 🎥 Demo
-[Include a link to a demo video or GIF showcasing the voice interaction]
+
